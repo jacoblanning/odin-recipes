@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small project to build out a recipe website using the basic html skills I have learned so far. The pages are built out using headers, ordered and unordered lists, images and links.
