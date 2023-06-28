@@ -8,6 +8,8 @@ h1 {
 img {
     height: auto;
     width: 350px;
+    display: inline-block;
+    margin-right: auto;
 }
 
 .center {
@@ -16,4 +18,16 @@ img {
     margin-right: auto;
     height: auto;
     width: 350px;
+  }
+li a {
+    background-color: rgb(167, 148, 148);
+    padding: 4px;
+}
+  ul li {
+    margin: 10px;
+    vertical-align: top;
+  }
+  ul {
+    display: inline-block;
+    vertical-align: top;
   }
